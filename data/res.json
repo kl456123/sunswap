@@ -1,0 +1,79 @@
+{
+  "amount": 10000,
+  "routesWithQuotes": [
+    {
+      "amount": 10000,
+      "percent": 100,
+      "routePath": {
+        "pools": [
+          {
+            "tokenInfos": [
+              {
+                "symbol": "WTRX",
+                "name": "WTRX",
+                "networkId": "TRON",
+                "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+              },
+              {
+                "symbol": "USDT",
+                "name": "USDT",
+                "networkId": "TRON",
+                "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+              }
+            ],
+            "address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ",
+            "liquidity": 0,
+            "protocol": "UniswapV2",
+            "poolData": { "uniswapV3PoolData": null },
+            "tokenAddrs": [
+              "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+              "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            ]
+          }
+        ],
+        "path": [
+          {
+            "symbol": null,
+            "name": null,
+            "networkId": null,
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+          },
+          {
+            "symbol": "USDT",
+            "name": "USDT",
+            "networkId": "TRON",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+          }
+        ],
+        "input": {
+          "symbol": null,
+          "name": null,
+          "networkId": null,
+          "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+        },
+        "output": {
+          "symbol": "USDT",
+          "name": "USDT",
+          "networkId": "TRON",
+          "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+        }
+      },
+      "quote": 100,
+      "quoteAdjustedForGas": 100.0
+    }
+  ],
+  "quote": 100,
+  "quoteAdjustedForGas": 100.0,
+  "fromToken": {
+    "symbol": null,
+    "name": null,
+    "networkId": null,
+    "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+  },
+  "toToken": {
+    "symbol": "USDT",
+    "name": "USDT",
+    "networkId": "TRON",
+    "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "lodash": "^4.17.21",
+    "tronweb": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.10",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "prettier": "prettier scripts/ src/ abis/ data/ --write"
+  }
+}

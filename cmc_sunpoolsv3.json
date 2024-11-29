@@ -1,0 +1,327 @@
+[
+  {
+    "address": "TSUUVjysXV8YqHytSNjfkNXnnB49QDvZpx",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 157846143.83719742,
+    "feeTier": 500
+  },
+  {
+    "address": "TMxxHG5PRVakKwNCvTWDb73gPwXvkZAhpm",
+    "token0": {
+      "symbol": "USDD",
+      "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 1974541.7296590002,
+    "feeTier": 100
+  },
+  {
+    "address": "TY1Nzu3P89TorQd41icdqWUSYDWkQAKVRb",
+    "token0": {
+      "symbol": "JST",
+      "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 3902494.07332634,
+    "feeTier": 500
+  },
+  {
+    "address": "TAozzLH9rDLvbYSPB2oJ5mMREvR8raiDyo",
+    "token0": {
+      "symbol": "BTC",
+      "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 1760422.982168477,
+    "feeTier": 500
+  },
+  {
+    "address": "TTbvjUk7gxTRVMmVN4v6uLR9pEcfmg9vH9",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "SUN",
+      "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    },
+    "liquidity": 12955535.234550344,
+    "feeTier": 3000
+  },
+  {
+    "address": "TPzYU4yucSi1H4meTehN5Xk5hDPoTfApEm",
+    "token0": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "token1": {
+      "symbol": "USDH",
+      "address": "TTiwtPv4MFHMoCpGDBEF85qQjD2v4e99ck"
+    },
+    "liquidity": 202124.0689321367,
+    "feeTier": 100
+  },
+  {
+    "address": "TW7pbp4pD38qv6kSaw44i4uVzthz2bBpYc",
+    "token0": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "token1": {
+      "symbol": "TUSD",
+      "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4"
+    },
+    "liquidity": 1840216.045330084,
+    "feeTier": 100
+  },
+  {
+    "address": "TQGmM67QjWwaCt4vN5tqvYqk8vLxfmrohG",
+    "token0": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "token1": {
+      "symbol": "HTX",
+      "address": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6"
+    },
+    "liquidity": 1622222.6856781922,
+    "feeTier": 3000
+  },
+  {
+    "address": "TWfHMr7Z9FaWdUcrZpFt3zUapffp4Jq1Ko",
+    "token0": {
+      "symbol": "BTT",
+      "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 1020259.6984288938,
+    "feeTier": 3000
+  },
+  {
+    "address": "TDJUxxbmxwC5gUHXm2on4ZHJwjzwkBcJ8s",
+    "token0": {
+      "symbol": "TEM",
+      "address": "TFuEe2QMB8J1rfwNhAwjRSwoFivMcU5N75"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 111209.59271429261,
+    "feeTier": 10000
+  },
+  {
+    "address": "TQ6yvvnEK4LxNLkUEtkzFNifwG2vd9jLUW",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "BMS",
+      "address": "TYQ2rbuRmcPuTQVWnx71BMsqxj46rteweH"
+    },
+    "liquidity": 50135.3579322287,
+    "feeTier": 10000
+  },
+  {
+    "address": "TLJjJevxGr8sCye1CuJgmENZkZbmjgvcZe",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "BEANS",
+      "address": "TQCfza5xo7srwPsYvdpQgYbgQAUWcAcjSa"
+    },
+    "liquidity": 3728.614296997445,
+    "feeTier": 3000
+  },
+  {
+    "address": "TXRBgSdqy6R9xWT1syXTp87ZbTDFqCtdSW",
+    "token0": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "token1": {
+      "symbol": "SUN",
+      "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    },
+    "liquidity": 152934.74216558668,
+    "feeTier": 3000
+  },
+  {
+    "address": "TUxxLPtubv3Sa6dqNFhKoYqPvvdtmvXsdy",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "SUNDOG",
+      "address": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT"
+    },
+    "liquidity": 10741.96063691144,
+    "feeTier": 500
+  },
+  {
+    "address": "TY4oN6XhLR1wypSVttcxRre83qKWP88eKB",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "IVfun",
+      "address": "TSig7sWzEL2K83mkJMQtbyPpiVSbR6pZnb"
+    },
+    "liquidity": 55.52055666069709,
+    "feeTier": 3000
+  },
+  {
+    "address": "TUijXw7B5q3X3d5Zaa7NBdu8pv1eMvir3n",
+    "token0": {
+      "symbol": "BTT",
+      "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 1311.3347735572136,
+    "feeTier": 3000
+  },
+  {
+    "address": "TTYyPPSiADggcHg1H8qDy3ad2EruwAi16F",
+    "token0": {
+      "symbol": "BULL",
+      "address": "TAt4ufXFaHZAEV44ev7onThjTnF61SEaEM"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 2051.2598666792333,
+    "feeTier": 3000
+  },
+  {
+    "address": "THiCDoQ5UBBYcZoCR1EhdqpfQK4NS6oLw6",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "FOFAR",
+      "address": "TUFonyWZ4Tza5MzgDj6g2u5rfdGoRVYG7g"
+    },
+    "liquidity": 807.1114004409039,
+    "feeTier": 10000
+  },
+  {
+    "address": "TC9QmgR8MUwRCYe3kCLwH8MW2WtxiLd6AV",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "liquidity": 1833.1643452914357,
+    "feeTier": 3000
+  },
+  {
+    "address": "TKNrjhpJmRMcbvjoFRV1CyKwHYiNungGPy",
+    "token0": {
+      "symbol": "BTC",
+      "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 2728.4957736011756,
+    "feeTier": 3000
+  },
+  {
+    "address": "TBs5trabJFiLKjYS2ZVg8Y8AQbzvLtDkPX",
+    "token0": {
+      "symbol": "SUNCAT",
+      "address": "TAwAg9wtQzTMFsijnSFotJrpxhMm3AqW1d"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 330.3853684897375,
+    "feeTier": 10000
+  },
+  {
+    "address": "TRzE68tbBoy2Ec5vLTLzQEPCUXktu4bB6D",
+    "token0": {
+      "symbol": "REV",
+      "address": "TKKkXMr7uuZ5kdajTcTqz9YNhAfNZnr7wm"
+    },
+    "token1": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "liquidity": 332.0415297134545,
+    "feeTier": 3000
+  },
+  {
+    "address": "TSgVkEBiqmkf95vMiW3UzainUijbsbeHHZ",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "SUNDOG",
+      "address": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT"
+    },
+    "liquidity": 0.47540129385426927,
+    "feeTier": 10000
+  },
+  {
+    "address": "TKY5ZizMyidUYipDBKSJ4kz6viaRs6fsE4",
+    "token0": {
+      "symbol": "WTRX",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "token1": {
+      "symbol": "Tcat",
+      "address": "TVgHqeP41s3qMDH3oKBsScEUzvyXw6bKAm"
+    },
+    "liquidity": 1084.3659863108762,
+    "feeTier": 10000
+  },
+  {
+    "address": "TY9cRnranaVLaqVM3s24Km9oJTRUUkyXvB",
+    "token0": {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    },
+    "token1": {
+      "symbol": "ETH",
+      "address": "TRFe3hT5oYhjSZ6f3ji5FJ7YCfrkWnHRvh"
+    },
+    "liquidity": 1208235.2481841897,
+    "feeTier": 500
+  }
+]

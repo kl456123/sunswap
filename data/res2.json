@@ -1,0 +1,175 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "amount": 10000,
+    "routesWithQuotes": [
+      {
+        "amount": 7000,
+        "percent": 70,
+        "routePath": {
+          "pools": [
+            {
+              "tokenInfos": [
+                {
+                  "symbol": "WTRX",
+                  "name": "WTRX",
+                  "networkId": "TRON",
+                  "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+                },
+                {
+                  "symbol": "USDT",
+                  "name": "USDT",
+                  "networkId": "TRON",
+                  "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+                }
+              ],
+              "address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ",
+              "liquidity": 0,
+              "protocol": "UniswapV2",
+              "poolData": { "uniswapV3PoolData": null },
+              "tokenAddrs": [
+                "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+                "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+              ]
+            }
+          ],
+          "path": [
+            {
+              "symbol": null,
+              "name": null,
+              "networkId": null,
+              "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+            },
+            {
+              "symbol": "USDT",
+              "name": "USDT",
+              "networkId": "TRON",
+              "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            }
+          ],
+          "input": {
+            "symbol": null,
+            "name": null,
+            "networkId": null,
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+          },
+          "output": {
+            "symbol": "USDT",
+            "name": "USDT",
+            "networkId": "TRON",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+          }
+        },
+        "quote": 100,
+        "quoteAdjustedForGas": 100.0
+      },
+      {
+        "amount": 3000,
+        "percent": 30,
+        "routePath": {
+          "pools": [
+            {
+              "tokenInfos": [
+                {
+                  "symbol": "WTRX",
+                  "name": "WTRX",
+                  "networkId": "TRON",
+                  "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+                },
+                {
+                  "symbol": "SUN",
+                  "name": "SUN",
+                  "networkId": "TRON",
+                  "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+                }
+              ],
+              "address": "THu6ConqvZ3phYHeNTDyW9aE3pGypwBsP6",
+              "liquidity": 0,
+              "protocol": "UniswapV2",
+              "poolData": { "uniswapV3PoolData": null },
+              "tokenAddrs": [
+                "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+                "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+              ]
+            },
+            {
+              "tokenInfos": [
+                {
+                  "symbol": "USDT",
+                  "name": "USDT",
+                  "networkId": "TRON",
+                  "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+                },
+                {
+                  "symbol": "SUN",
+                  "name": "SUN",
+                  "networkId": "TRON",
+                  "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+                }
+              ],
+              "address": "TTdeCobmYxhfFBYUZbiQqbZ56zrFkSE5DG",
+              "liquidity": 0,
+              "protocol": "UniswapV2",
+              "poolData": { "uniswapV3PoolData": null },
+              "tokenAddrs": [
+                "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+                "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+              ]
+            }
+          ],
+          "path": [
+            {
+              "symbol": null,
+              "name": null,
+              "networkId": null,
+              "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+            },
+            {
+              "symbol": "SUN",
+              "name": "SUN",
+              "networkId": "TRON",
+              "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+            },
+            {
+              "symbol": "USDT",
+              "name": "USDT",
+              "networkId": "TRON",
+              "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            }
+          ],
+          "input": {
+            "symbol": null,
+            "name": null,
+            "networkId": null,
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+          },
+          "output": {
+            "symbol": "USDT",
+            "name": "USDT",
+            "networkId": "TRON",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+          }
+        },
+        "quote": 476096,
+        "quoteAdjustedForGas": 476096.0
+      }
+    ],
+    "quote": 476196,
+    "quoteAdjustedForGas": 476196.0,
+    "fromToken": {
+      "symbol": null,
+      "name": null,
+      "networkId": null,
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "toToken": {
+      "symbol": "USDT",
+      "name": "USDT",
+      "networkId": "TRON",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    }
+  },
+  "success": true
+}

@@ -1,0 +1,59 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "amount": "1000000000",
+    "routesWithQuotes": [
+      {
+        "amount": "1000000000",
+        "percent": 100,
+        "routePath": {
+          "inputToken": {
+            "symbol": "WTRX",
+            "networkId": "TRON",
+            "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+          },
+          "outputToken": {
+            "symbol": "USDT",
+            "networkId": "TRON",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+          },
+          "path": [
+            {
+              "symbol": "WTRX",
+              "networkId": "TRON",
+              "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+            },
+            {
+              "symbol": "USDT",
+              "networkId": "TRON",
+              "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            }
+          ],
+          "pools": [
+            {
+              "protocol": "UniswapV2",
+              "address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ"
+            }
+          ],
+          "quote": "159054149",
+          "quoteAdjustedFoGas": "159054149.0000000000000000000"
+        }
+      }
+    ],
+    "quote": "159054149",
+    "quoteAdjustedForGas": "159054149.0000000000000000000",
+    "fromToken": {
+      "symbol": "WTRX",
+      "networkId": "TRON",
+      "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR"
+    },
+    "toToken": {
+      "symbol": "USDT",
+      "networkId": "TRON",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    }
+  },
+  "success": true
+}

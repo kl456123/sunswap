@@ -1,0 +1,68 @@
+{
+  "code": "000000",
+  "message": null,
+  "messageDetail": null,
+  "data": {
+    "amount": "1000000000000000000000",
+    "routesWithQuotes": [
+      {
+        "amount": "1000000000000000000000",
+        "percent": 100,
+        "routePath": {
+          "inputToken": {
+            "symbol": "SUN",
+            "networkId": "TRON",
+            "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+          },
+          "outputToken": {
+            "symbol": "JST",
+            "networkId": "TRON",
+            "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+          },
+          "path": [
+            {
+              "symbol": "SUN",
+              "networkId": "TRON",
+              "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+            },
+            {
+              "symbol": "USDT",
+              "networkId": "TRON",
+              "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+            },
+            {
+              "symbol": "JST",
+              "networkId": "TRON",
+              "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+            }
+          ],
+          "pools": [
+            {
+              "protocol": "UniswapV3",
+              "address": "TXRBgSdqy6R9xWT1syXTp87ZbTDFqCtdSW"
+            },
+            {
+              "protocol": "UniswapV3",
+              "address": "TY1Nzu3P89TorQd41icdqWUSYDWkQAKVRb"
+            }
+          ],
+          "quote": "620459504265393309521",
+          "quoteAdjustedFoGas": "620459504265393309521.0"
+        }
+      }
+    ],
+    "quote": "620459504265393309521",
+    "quoteAdjustedForGas": "620459504265393309521.0",
+    "fromToken": {
+      "symbol": "SUN",
+      "networkId": "TRON",
+      "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+    },
+    "toToken": {
+      "symbol": "JST",
+      "networkId": "TRON",
+      "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+    }
+  },
+  "success": true
+}
